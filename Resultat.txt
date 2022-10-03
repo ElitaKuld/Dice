@@ -1,0 +1,7 @@
+Efter att ha analyserat denna skapade textfil kan man sammanfatta att bland alla slumpmässigt genererade tal mellan 1 och 6 finns det:
+177 ettor
+171 tvåor
+160 treor
+175 fyror
+171 femmor
+146 sexor
